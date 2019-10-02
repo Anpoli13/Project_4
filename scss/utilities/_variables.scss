@@ -1,0 +1,54 @@
+// Names Of Base Colors
+$grey               : #777;
+$light_grey         : lighten($grey, 25%);
+$white              : #fff;
+$turquoise          : #58e1c1;
+$maya_blue          : #51ddfc;
+
+$lilac_bush         : #927bc1;
+$coral              : #fd7856;
+$wisteria           : #deb2ee;
+$electric_blue      : #7ee6fd;
+$granny_smith_apple : #88d9a0;
+$boston_blue        : #4da2bb;
+$wax_flower         : #ec9fa3;
+$mona_lisa          : #fd9f85;
+$froly              : #e4757a;
+$emerald            : #63cc82;
+$turquoise_blue     : #80e8d1;
+
+// Colors
+
+$color-text         : $grey;
+$color-primary      : $turquoise;
+$color-secondary    : $maya_blue;
+$color-button-text  : $white;
+$color-img-border   : $light_grey;
+
+$color-col-1  : $lilac_bush;
+$color-col-2  : $coral;
+$color-col-3  : $wisteria;
+$color-col-4  : $electric_blue;
+$color-col-5  : $granny_smith_apple;
+$color-col-6  : $boston_blue;
+$color-col-7  : $wax_flower;
+$color-col-8  : $mona_lisa;
+$color-col-9  : $emerald;
+$color-col-10 : $turquoise_blue;
+$color-col-11 : $maya_blue;
+$color-col-12 : $turquoise_blue;
+
+$color-default  : $maya_blue;
+$color-error    : $froly;
+$color-info     : $lilac_bush;
+$color-success  : $emerald;
+$color-warning  : $coral;
+
+// Media query breakpoint
+
+$br-md: 768px;
+
+
+
+
+

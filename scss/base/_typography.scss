@@ -1,0 +1,40 @@
+  
+  /* ============================================= */
+  /*              Typography                       */
+  /* ============================================= */
+
+  $base-font-family : 'Lato', sans-serif;
+
+  $base-font-size : 1.5em;
+
+  $font-weight--norm       : 300;
+  $font-weight--bold       : 700;
+
+  $font-style: italic;
+
+
+  .headline-primary {
+    color: $color-primary;
+    margin-left: 10px;
+  }
+  
+  .headline-secondary {
+    font-weight: $font-weight--norm;
+    color: $color-text;
+  }
+  
+  .link {
+    color: $color-secondary;
+    font-weight: $font-weight--bold;
+  }
+  
+  .blockquote {
+    font-size: $base-font-size;
+    font-weight: $font-weight--norm;
+    font-style: $font-style;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 8px solid $color-primary;
+    border-radius: 5px;
+  }
+  
